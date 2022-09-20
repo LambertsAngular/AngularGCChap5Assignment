@@ -1,4 +1,11 @@
 # AngularGCChap5Assignment
+<ol>
+  <li>Create three new components: GameControl, Odd and Even</li>
+  <li>The GameControl Component should have buttons to start and stop the game</li>
+  <li>When starting the game, an event (holding an incrementing number) should get emitted each second (ref = setInterval()</li>
+  <li>The event should be listenable from outside the component</li>
+  <li></li>
+</ol>
 1- Create three new components: GameControl, Odd and Even
 2- The GameControl Component should have buttons to start and stop the game
 3- When starting the game, an event (holding an incrementing number) should get emitted each second (ref = setInterval())
