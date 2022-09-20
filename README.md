@@ -8,5 +8,4 @@
   <li>A new Odd Component should get created for every odd nember emitted, the same should happen for the Event Component ( on even numbers)</li>
   <li>Simply output Odd - NUMBER or Even - NUMBER in two components</li>
   <li>Style the element (e.g. paragraph) holding your output text differently in both components</li>
-  <li></li>
 </ol>
